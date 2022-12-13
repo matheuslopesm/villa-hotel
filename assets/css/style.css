@@ -168,8 +168,9 @@ Headers:    'Abril Fatface' sans-serif;
 
         html {
             overflow-y: initial !important;
+            scroll-behavior: smooth;
         }
-
+        
         ::-webkit-selection {
             color: #fff;
             background-color: #ae745a;

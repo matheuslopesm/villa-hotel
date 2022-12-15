@@ -218,17 +218,17 @@ Headers:    'Abril Fatface' sans-serif;
 
         .milenia-body--scheme-lightbrown ::-webkit-selection {
             color: #fff;
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown ::-moz-selection {
             color: #fff;
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown ::selection {
             color: #fff;
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-green ::-webkit-selection {
@@ -509,9 +509,9 @@ Headers:    'Abril Fatface' sans-serif;
             }
 
             .milenia-body--scheme-lightbrown a:not(.milenia-ln--independent):not(.milenia-btn) {
-                color: #c19b76;
-                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #c19b76), to(#c19b76));
-                background-image: linear-gradient(to bottom, #c19b76 100%, #c19b76 100%);
+                color: #94C11F;
+                background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #94C11F), to(#94C11F));
+                background-image: linear-gradient(to bottom, #94C11F 100%, #94C11F 100%);
             }
 
             .milenia-body--scheme-green a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -1234,12 +1234,12 @@ Headers:    'Abril Fatface' sans-serif;
             .milenia-body--scheme-lightbrown .milenia-navigation > .current-menu-ancestor > a,
             .milenia-body--scheme-lightbrown .milenia-navigation > .current-menu-parent > a,
             .milenia-body--scheme-lightbrown .milenia-navigation > .current-menu-item > a {
-                color: #c19b76;
+                color: #94C11F;
             }
 
             .milenia-body--scheme-lightbrown .milenia-navigation > li > a::before,
             .milenia-body--scheme-lightbrown .milenia-mobile-nav-btn {
-                background-color: #c19b76;
+                background-color: #94C11F;
             }
 
             .milenia-no-touchevents .milenia-body--scheme-green .milenia-navigation > li:hover > a,
@@ -1405,7 +1405,7 @@ Headers:    'Abril Fatface' sans-serif;
             .milenia-body--scheme-lightbrown .milenia-list--icon .fas,
             .milenia-body--scheme-lightbrown .milenia-list--icon .icon,
             .milenia-body--scheme-lightbrown .milenia-list--icon [class*="milenia-font-icon-"] {
-                color: #c19b76;
+                color: #94C11F;
             }
 
             .milenia-body--scheme-green .milenia-list--icon .fa,
@@ -2363,7 +2363,7 @@ Headers:    'Abril Fatface' sans-serif;
                 }
 
                 .milenia-body--scheme-lightbrown .calendar_wrap table #today {
-                    background-color: #c19b76;
+                    background-color: #94C11F;
                 }
 
                 .milenia-body--scheme-green .calendar_wrap table #today {
@@ -2448,7 +2448,7 @@ Headers:    'Abril Fatface' sans-serif;
                 }
 
                 .milenia-body--scheme-lightbrown .milenia-widget .milenia-event-date {
-                    color: #c19b76;
+                    color: #94C11F;
                 }
 
                 .milenia-body--scheme-green .milenia-widget .milenia-event-date {
@@ -2576,7 +2576,7 @@ Headers:    'Abril Fatface' sans-serif;
                 }
 
                 .milenia-body--scheme-lightbrown .milenia-widget .milenia-weather-indicator--style-3 {
-                    color: #c19b76;
+                    color: #94C11F;
                 }
 
                 .milenia-body--scheme-green .milenia-widget .milenia-weather-indicator--style-3 {
@@ -3725,7 +3725,7 @@ Headers:    'Abril Fatface' sans-serif;
 
         .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color,
         .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-secondary .milenia-colorizer-bg-color {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color {
@@ -3755,9 +3755,9 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-dark a:not(.milenia-ln--independent):not(.milenia-btn) {
-            color: #c19b76;
-            background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #c19b76), to(#c19b76));
-            background-image: linear-gradient(to bottom, #c19b76 100%, #c19b76 100%);
+            color: #94C11F;
+            background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #94C11F), to(#94C11F));
+            background-image: linear-gradient(to bottom, #94C11F 100%, #94C11F 100%);
         }
 
         .milenia-body--scheme-green .milenia-colorizer--scheme-dark a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -4101,7 +4101,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-navigation-vertical > li > a::before {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown .milenia-navigation-vertical li:hover > a,
@@ -4110,7 +4110,7 @@ Headers:    'Abril Fatface' sans-serif;
         .milenia-body--scheme-lightbrown .milenia-navigation-vertical li.current-menu-ancestor > a,
         .milenia-body--scheme-lightbrown .milenia-navigation-vertical li.current-menu-parent > a,
         .milenia-body--scheme-lightbrown .milenia-navigation-vertical li.current-menu-item > a {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-navigation-vertical > li > a::before {
@@ -4180,7 +4180,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -4277,11 +4277,11 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-dropcap:not(.milenia-dropcap--filled) > *:first-child:first-letter {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown .milenia-dropcap.milenia-dropcap--filled > *:first-child:first-letter {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-dropcap:not(.milenia-dropcap--filled) > *:first-child:first-letter {
@@ -4693,7 +4693,7 @@ Headers:    'Abril Fatface' sans-serif;
         .milenia-body--scheme-lightbrown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary > li > .fas,
         .milenia-body--scheme-lightbrown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary > li > .icon,
         .milenia-body--scheme-lightbrown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary > li > [class*="milenia-font-icon-"] {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-entity-content ul:not(.milenia-list--unstyled):not([class*="milenia-list--scheme"]) ul > li::before,
@@ -4945,7 +4945,7 @@ Headers:    'Abril Fatface' sans-serif;
 
         .milenia-body--scheme-lightbrown .milenia-divider--scheme-secondary,
         .milenia-body--scheme-lightbrown .milenia-divider--scheme-primary {
-            border-color: #c19b76;
+            border-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-divider--scheme-primary {
@@ -5039,11 +5039,11 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown blockquote:not(.milenia-blockquote--unstyled):not(.milenia-blockquote--style-2) {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 {
-            border-color: #c19b76;
+            border-color: #94C11F;
         }
 
         .milenia-body--scheme-green blockquote:not(.milenia-blockquote--unstyled):not(.milenia-blockquote--style-2) {
@@ -5372,8 +5372,8 @@ Headers:    'Abril Fatface' sans-serif;
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-primary:not(.milenia-btn--link), .milenia-body--scheme-lightbrown .milenia-btn--scheme-primary:not(.milenia-btn--link).milenia-btn--reverse:hover,
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-secondary:not(.milenia-btn--link),
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-secondary:not(.milenia-btn--link).milenia-btn--reverse:hover {
-            border-color: #c19b76;
-            background-color: #c19b76;
+            border-color: #94C11F;
+            background-color: #94C11F;
             color: #fff;
         }
 
@@ -5381,15 +5381,15 @@ Headers:    'Abril Fatface' sans-serif;
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-secondary:not(.milenia-btn--link):hover,
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-secondary:not(.milenia-btn--link):focus,
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-secondary:not(.milenia-btn--link).milenia-btn--reverse {
-            color: #c19b76;
+            color: #94C11F;
             background-color: #fff;
         }
 
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-primary.milenia-btn--link,
         .milenia-body--scheme-lightbrown .milenia-btn--scheme-secondary.milenia-btn--link {
-            color: #c19b76;
-            background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #c19b76), to(#c19b76));
-            background-image: linear-gradient(to bottom, #c19b76 100%, #c19b76 100%);
+            color: #94C11F;
+            background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #94C11F), to(#94C11F));
+            background-image: linear-gradient(to bottom, #94C11F 100%, #94C11F 100%);
         }
 
         .milenia-body--scheme-green .milenia-btn--scheme-primary:not(.milenia-btn--link), .milenia-body--scheme-green .milenia-btn--scheme-primary:not(.milenia-btn--link).milenia-btn--reverse:hover {
@@ -5533,7 +5533,7 @@ Headers:    'Abril Fatface' sans-serif;
 
         .milenia-body--scheme-lightbrown .milenia-action-buttons > a,
         .milenia-body--scheme-lightbrown .milenia-action-buttons > button {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-action-buttons > a,
@@ -5696,11 +5696,11 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-panels--style-2 .milenia-panels-title.milenia-panels-active > button {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown .milenia-panels:not(.milenia-panels--style-2) .milenia-panels-title.milenia-panels-active > button {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-panels--style-2 .milenia-panels-title.milenia-panels-active > button {
@@ -5867,15 +5867,15 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-tabs:not(.milenia-tabs--unstyled):not(.milenia-tabs--style-2) .milenia-tabs-nav .milenia-active > a {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown .milenia-tabs:not(.milenia-tabs--unstyled).milenia-tabs--style-2 .milenia-active > a {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown .milenia-tabs:not(.milenia-tabs--unstyled).milenia-tabs--style-2 .milenia-active > a::after {
-            border-color: #c19b76;
+            border-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-tabs:not(.milenia-tabs--unstyled):not(.milenia-tabs--style-2) .milenia-tabs-nav .milenia-active > a {
@@ -6110,7 +6110,7 @@ Headers:    'Abril Fatface' sans-serif;
 
         .milenia-body--scheme-lightbrown .milenia-progress-bars:not(.milenia-progress-bars--secondary) .milenia-progress-bar-indicator,
         .milenia-body--scheme-lightbrown .milenia-progress-bars.milenia-progress-bars--secondary .milenia-progress-bar-indicator {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-progress-bars:not(.milenia-progress-bars--secondary) .milenia-progress-bar-indicator {
@@ -6204,7 +6204,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-counter-icon {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-counter-icon {
@@ -7177,11 +7177,11 @@ Headers:    'Abril Fatface' sans-serif;
         .milenia-body--scheme-lightbrown .milenia-icon-boxes--style-1 .milenia-icon-box-icon,
         .milenia-body--scheme-lightbrown .milenia-icon-boxes--style-1 .milenia-icon-box-title,
         .milenia-body--scheme-lightbrown .milenia-icon-boxes--style-3 .milenia-icon-box-icon {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-lightbrown .milenia-icon-boxes--style-1 .milenia-icon-box:hover {
-            background-color: #c19b76;
+            background-color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-icon-boxes--style-1 .milenia-icon-box-icon,
@@ -8306,7 +8306,7 @@ Headers:    'Abril Fatface' sans-serif;
             .milenia-body--scheme-lightbrown .milenia-entities--style-6 .milenia-entity-link-element .fas,
             .milenia-body--scheme-lightbrown .milenia-entities--style-6 .milenia-entity-link-element .icon,
             .milenia-body--scheme-lightbrown .milenia-entities--style-6 .milenia-entity-link-element [class*="milenia-font-icon-"] {
-                color: #c19b76;
+                color: #94C11F;
             }
 
             .milenia-body--scheme-green .milenia-entities--style-6 .milenia-entity-link-element .fa,
@@ -8698,7 +8698,7 @@ Headers:    'Abril Fatface' sans-serif;
             }
 
             .milenia-body--scheme-lightbrown .milenia-entities--style-8 .milenia-entity {
-                background-color: #c19b76;
+                background-color: #94C11F;
             }
 
             .milenia-body--scheme-green .milenia-entities--style-8 .milenia-entity {
@@ -9051,7 +9051,7 @@ Headers:    'Abril Fatface' sans-serif;
             .milenia-body--scheme-lightbrown .milenia-entities--style-15 .milenia-entity-price,
             .milenia-body--scheme-lightbrown .milenia-entities--style-16 .milenia-entity-price,
             .milenia-body--scheme-lightbrown .milenia-entity-single.milenia-entity--room .milenia-entity-price {
-                color: #c19b76;
+                color: #94C11F;
             }
 
             .milenia-body--scheme-green .milenia-entities--style-10 .milenia-entity-price,
@@ -9801,7 +9801,7 @@ Headers:    'Abril Fatface' sans-serif;
             }
 
             .milenia-body--scheme-lightbrown .milenia-entities--style-19 .milenia-entity-price, .milenia-body--scheme-lightbrown .milenia-entities--style-19 .milenia-entity-date-date, .milenia-body--scheme-lightbrown .milenia-entities--style-19 .milenia-entity-date-month-year {
-                color: #c19b76;
+                color: #94C11F;
             }
 
             .milenia-body--scheme-green .milenia-entities--style-19 .milenia-entity-price, .milenia-body--scheme-green .milenia-entities--style-19 .milenia-entity-date-date, .milenia-body--scheme-green .milenia-entities--style-19 .milenia-entity-date-month-year {
@@ -9909,7 +9909,7 @@ Headers:    'Abril Fatface' sans-serif;
                 }
 
                 .milenia-body--scheme-lightbrown .milenia-entity-link-element {
-                    background-color: #c19b76;
+                    background-color: #94C11F;
                 }
 
                 .milenia-body--scheme-green .milenia-entity-link-element {
@@ -10276,12 +10276,12 @@ Headers:    'Abril Fatface' sans-serif;
 
             .milenia-body--scheme-lightbrown .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,
             .milenia-body--scheme-lightbrown .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-next {
-                background-color: #c19b76;
+                background-color: #94C11F;
             }
 
             .milenia-body--scheme-lightbrown .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-prev:hover,
             .milenia-body--scheme-lightbrown .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-next:hover {
-                color: #c19b76;
+                color: #94C11F;
             }
 
             .milenia-body--scheme-green .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,
@@ -10404,7 +10404,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-section-subtitle {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-section-subtitle {
@@ -10570,7 +10570,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-testimonial .milenia-rating {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-testimonial .milenia-rating {
@@ -10867,7 +10867,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-estimate .milenia-estimate-mark {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-estimate .milenia-estimate-mark {
@@ -11253,7 +11253,7 @@ Headers:    'Abril Fatface' sans-serif;
             }
 
             .milenia-body--scheme-lightbrown .ui-datepicker-calendar tbody td.ui-datepicker-today a:not(.milenia-ln--independent):not(.milenia-btn) {
-                background-color: #c19b76;
+                background-color: #94C11F;
             }
 
             .milenia-body--scheme-green .ui-datepicker-calendar tbody td.ui-datepicker-today a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -12060,7 +12060,7 @@ Headers:    'Abril Fatface' sans-serif;
             }
 
             .milenia-body--scheme-lightbrown .milenia-singlefield-form button {
-                background-color: #c19b76;
+                background-color: #94C11F;
             }
 
             .milenia-body--scheme-green .milenia-singlefield-form button {
@@ -12739,7 +12739,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-countdown .countdown-amount {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-countdown .countdown-amount {
@@ -13732,7 +13732,7 @@ Headers:    'Abril Fatface' sans-serif;
 
             .milenia-body--scheme-lightbrown .milenia-events-calendar td:hover,
             .milenia-body--scheme-lightbrown .milenia-events-calendar .milenia-events-td--selected {
-                background-color: #c19b76;
+                background-color: #94C11F;
             }
 
             .milenia-body--scheme-green .milenia-events-calendar td:hover,
@@ -13813,7 +13813,7 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-body--scheme-lightbrown .milenia-404-title {
-            color: #c19b76;
+            color: #94C11F;
         }
 
         .milenia-body--scheme-green .milenia-404-title {

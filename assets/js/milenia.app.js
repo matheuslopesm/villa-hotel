@@ -1386,60 +1386,60 @@ var Milenia = (function($){
             Preloader
      ---------------------------------------- */
 
-        App.modules.preloader = function() {
-            var $preloader = $('.milenia-preloader'),
-                leftPos = parseInt($preloader.css('margin-left'), 10),
-                topPos = parseInt($preloader.css('margin-top'), 10),
-                $w = $(window),
-                $nav = $('.milenia-navigation, .milenia-navigation-vertical');
+        // App.modules.preloader = function() {
+        //     var $preloader = $('.milenia-preloader'),
+        //         leftPos = parseInt($preloader.css('margin-left'), 10),
+        //         topPos = parseInt($preloader.css('margin-top'), 10),
+        //         $w = $(window),
+        //         $nav = $('.milenia-navigation, .milenia-navigation-vertical');
 
-            if($nav.length) {
-                $nav.off('click.MileniaPreloader').on('click.MileniaPreloader', 'a', function(event){
+        //     if($nav.length) {
+        //         $nav.off('click.MileniaPreloader').on('click.MileniaPreloader', 'a', function(event){
 
-                    var $this = $(this),
-                        $circle = $('<div></div>', {
-                            style: 'left: '+ event.clientX +'px; top: '+ event.clientY +'px;',
-                            class: 'milenia-preloader-circle'
-                        });
+        //             var $this = $(this),
+        //                 $circle = $('<div></div>', {
+        //                     style: 'left: '+ event.clientX +'px; top: '+ event.clientY +'px;',
+        //                     class: 'milenia-preloader-circle'
+        //                 });
 
-                    if($body.hasClass('milenia-body--moving-to-another-page')) {
-                        $circle.appendTo($body);
+        //             if($body.hasClass('milenia-body--moving-to-another-page')) {
+        //                 $circle.appendTo($body);
 
-                        setTimeout(function(){
-                            $circle.addClass('milenia-preloader-circle--appearing');
-                        }, 20);
-                    }
-                });
-            }
+        //                 setTimeout(function(){
+        //                     $circle.addClass('milenia-preloader-circle--appearing');
+        //                 }, 20);
+        //             }
+        //         });
+        //     }
 
-            if(!$preloader.length) return;
+        //     if(!$preloader.length) return;
 
-            $body.off('mousemove.MileniaPreloader').on('mousemove.MileniaPreloader', function(event) {
-                $preloader.css({
-                    'margin-left': leftPos - ($w.width() / 2 - event.pageX),
-                    'margin-top': topPos - ($w.height() / 2 - (event.pageY - $w.scrollTop())),
-                });
-            }).jQueryImagesLoaded().then(function(){
-                var $niceScrollRails = $('.nicescroll-rails');
+        //     $body.off('mousemove.MileniaPreloader').on('mousemove.MileniaPreloader', function(event) {
+        //         $preloader.css({
+        //             'margin-left': leftPos - ($w.width() / 2 - event.pageX),
+        //             'margin-top': topPos - ($w.height() / 2 - (event.pageY - $w.scrollTop())),
+        //         });
+        //     }).jQueryImagesLoaded().then(function(){
+        //         var $niceScrollRails = $('.nicescroll-rails');
 
-                $preloader.addClass('milenia-preloader--disappearing');
-                setTimeout(function() {
-                    $preloader.remove();
-                    $body.off('mousemove.MileniaPreloader');
-                    App.helpers.updateGlobalNiceScroll();
-                    if($niceScrollRails.length) $niceScrollRails.css('visibility', 'visible');
-                }, 700);
-                // can be removed in production (demo only):
-                if(window.location.hash == '#milenia-footer') {
-                    $('html, body').stop().animate({
-                        scrollTop: $doc.height()
-                    }, {
-                        duration: self.ANIMATIONDURATION,
-                        easing: self.ANIMATIONEASING
-                    });
-                }
-            });
-        };
+        //         $preloader.addClass('milenia-preloader--disappearing');
+        //         setTimeout(function() {
+        //             $preloader.remove();
+        //             $body.off('mousemove.MileniaPreloader');
+        //             App.helpers.updateGlobalNiceScroll();
+        //             if($niceScrollRails.length) $niceScrollRails.css('visibility', 'visible');
+        //         }, 700);
+        //         // can be removed in production (demo only):
+        //         if(window.location.hash == '#milenia-footer') {
+        //             $('html, body').stop().animate({
+        //                 scrollTop: $doc.height()
+        //             }, {
+        //                 duration: self.ANIMATIONDURATION,
+        //                 easing: self.ANIMATIONEASING
+        //             });
+        //         }
+        //     });
+        // };
 
     /* ----------------------------------------
             End of Preloader

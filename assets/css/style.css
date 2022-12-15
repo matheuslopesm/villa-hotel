@@ -580,7 +580,7 @@ Headers:    'Abril Fatface' sans-serif;
         Preloader
     ---------------------------------------- */
 
-        .milenia-preloader-circle,
+        /* .milenia-preloader-circle,
         .milenia-preloader {
             position: fixed;
             width: 260vw;
@@ -618,7 +618,7 @@ Headers:    'Abril Fatface' sans-serif;
         .milenia-preloader-circle--appearing {
             -webkit-transform: scale3d(1, 1, 1);
                     transform: scale3d(1, 1, 1);
-        }
+        } */
 
     /* ----------------------------------------
         Critical full screen message

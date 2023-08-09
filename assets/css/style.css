@@ -5082,11 +5082,11 @@ Headers:    'Abril Fatface' sans-serif;
         }
 
         .milenia-back-to-top {
-            display: block;
+            display: none;
             position: fixed;
             z-index: 27;
-            top: 60%;
-            right: 3%;
+            top: 70%;
+            right: 3rem;
             width: 3.25rem;
             height: 3.25rem;
             font-size: 1.2rem;

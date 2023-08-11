@@ -13865,6 +13865,25 @@ Headers:    'Abril Fatface' sans-serif;
     5. Media Queries
  ---------------------------------------- */
 
+    @media (max-width: 767px) {
+        div a .hotel-map-desktop{
+            display: none;
+        }
+
+        #chegar a {
+            display: flex;
+            align-items: center;
+        }
+
+        #chegar a:hover{
+            border: none;
+        }
+
+        div a .hotel-map-phone{
+            margin-inline: auto;
+        }
+    }
+
     @media (min-width: 576px) {
         .milenia-d-sm-none {
             display: none;
@@ -14179,6 +14198,24 @@ Headers:    'Abril Fatface' sans-serif;
     }
 
     @media (min-width: 768px) {
+
+        div a .hotel-map-desktop{
+            display: initial;
+        }
+
+        #chegar a {
+            display: flex;
+            align-items: center;
+        }
+
+        #chegar a:hover{
+            border: none;
+        }
+
+        div a .hotel-map-phone{
+            display: none;
+        }
+
         table.milenia-table--vertical td:first-child,
         table.milenia-table--vertical th:first-child {
             width: 34.8%;
@@ -14985,6 +15022,16 @@ Headers:    'Abril Fatface' sans-serif;
     }
 
     @media (min-width: 1200px) {
+
+        #chegar a {
+            display: flex;
+            align-items: center;
+        }
+
+        #chegar a:hover{
+            border: none;
+        }
+        
         .milenia-d-xl-none {
             display: none;
         }
